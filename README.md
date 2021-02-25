@@ -23,8 +23,6 @@ Clone the file and upload to your own ProB software, alternatively any software 
 
 ## Meta
 
-Chris Selwood – chris@selwood.io
-
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/Cselwood](https://github.com/Cselwood)
