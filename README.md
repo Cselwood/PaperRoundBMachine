@@ -5,7 +5,9 @@ Using B-Method and Formal Specification, this delivery route system is programme
 
 ## Features
 
-    - If you have ProB, feel free to copy and animate the software to test it's effectiveness.
+    - Has a wide array of reading items available
+    - Ensures each house only gets delivered what it has ordered
+    - Is guaranteed to be bug free by being developed in an abstract machine
 
 ## How It's Made!
 
